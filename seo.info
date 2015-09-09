@@ -1,0 +1,19 @@
+name = Search Engine Optimization
+core = 7.x
+package = Checkpoint
+project = Checkpoint
+version = 7.x-1.0
+
+; Components
+dependencies[] = common
+
+; Contributed Modules
+dependencies[] = metatag
+dependencies[] = google_analytics
+dependencies[] = google_image_sitemap
+dependencies[] = googlenews
+dependencies[] = site_verify
+dependencies[] = redirect
+dependencies[] = xmlsitemap
+dependencies[] = xmlsitemap_node
+dependencies[] = xmlsitemap_i18n
