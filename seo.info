@@ -9,7 +9,7 @@ dependencies[] = common
 
 ; Contributed Modules
 dependencies[] = metatag
-dependencies[] = google_analytics
+dependencies[] = googleanalytics
 dependencies[] = google_image_sitemap
 dependencies[] = googlenews
 dependencies[] = site_verify
