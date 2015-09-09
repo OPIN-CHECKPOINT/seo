@@ -16,4 +16,3 @@ dependencies[] = site_verify
 dependencies[] = redirect
 dependencies[] = xmlsitemap
 dependencies[] = xmlsitemap_node
-dependencies[] = xmlsitemap_i18n
